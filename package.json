@@ -1,0 +1,22 @@
+{
+  "name": "spaced-repetition-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveeno/spaced-repetition-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveeno/spaced-repetition-learning/issues"
+  },
+  "homepage": "https://github.com/praveeno/spaced-repetition-learning#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2"
+  }
+}
